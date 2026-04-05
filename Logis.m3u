@@ -1,0 +1,90 @@
+#EXTM3U
+
+#=============== NASIONAL ===============#
+
+#EXTINF:-1 tvg-id="TRANS7" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/trans7.png" group-title="NASIONAL",TRANS 7
+https://video.detik.com/trans7/smil:trans7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRANS7" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/transtv.png" group-title="NASIONAL",TRANS TV
+https://video.detik.com/transtv/smil:transtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCTI" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rcti.png" group-title="NASIONAL",RCTI HD
+https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
+
+#EXTINF:-1 tvg-id="SCTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sctv.png" group-title="NASIONAL",SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mnc.png" group-title="NASIONAL",MNC TV
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+
+#EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/indosiar1.png" group-title="NASIONAL",INDOSIAR
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:-1 tvg-id="RTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtv.png" group-title="NASIONAL",RTV
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/rtv.m3u8
+
+#EXTINF:-1 tvg-id="GTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/gtv.png" group-title="NASIONAL",GTV
+https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
+
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/moji.png" group-title="NASIONAL",MOJI
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1 tvg-id="TVOne" group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvone.png",TVOne
+http://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
+
+#EXTINF:-1 tvg-id="CNN.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnn.png" group-title="NASIONAL",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/metro.png" group-title="NASIONAL",Metro TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/antv.png" group-title="NASIONAL",ANTV HD
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd|license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="iNews" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/inews.png",iNews
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd|license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
+
+#EXTINF:-1 tvg-id="Kompas TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kompas.png" group-title="NASIONAL",Kompas TV HD
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd|license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
+
+#EXTINF:-1 tvg-id="TVRI" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvri.png" group-title="NASIONAL",TVRI Nasional
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/b642f32e396042f981d83fbb5f472272/index.mpd
+
+#EXTINF:-1 tvg-id="TVRI World" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/TVRI-World.png" group-title="NASIONAL",TVRI World
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tvriwo.m3u8
+
+#=============== SPORT ===============#
+
+#EXTINF:-1 tvg-id="SPOTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-8eFnxcvSLhAIy8n30rYJ1Cx-MlhILrD1_3enDxQdocyytnkZBA8WPk&s=10" group-title="SPORT",SPOTV
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd|license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+
+#EXTINF:-1 tvg-id="SPOTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-8eFnxcvSLhAIy8n30rYJ1Cx-MlhILrD1_3enDxQdocyytnkZBA8WPk&s=10" group-title="SPORT",SPOTV 2
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd|license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+
+#EXTINF:-1 tvg-id="BEIN1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqkMEdXxkbiJ-iK1-28PU-Xrb1Dt98W5KBt5nDBmc3sLSkMFR15ssFWI6T&s=10" group-title="SPORT",BEIN Sports 1
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+
+#EXTINF:-1 tvg-id="BEIN2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqkMEdXxkbiJ-iK1-28PU-Xrb1Dt98W5KBt5nDBmc3sLSkMFR15ssFWI6T&s=10" group-title="SPORT",BEIN Sports 2
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd|license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+
+#EXTINF:-1 tvg-id="BEIN3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqkMEdXxkbiJ-iK1-28PU-Xrb1Dt98W5KBt5nDBmc3sLSkMFR15ssFWI6T&s=10" group-title="SPORT",BEIN Sports 3
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd|license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+
+#=============== TVRI DAERAH KALIMANTAN ===============#
+
+#EXTINF:-1 tvg-id="TVRI Kalteng" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Kalimantan Tengah
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng-avc1_500000=10007-mp4a_64000=20001.m3u8
+
+#EXTINF:-1 tvg-id="TVRI Kalsel" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Kalimantan Selatan
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel-avc1_500000=10007-mp4a_64000=20001.m3u8
+
+#EXTINF:-1 tvg-id="TVRI Kalbar" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Kalimantan Barat
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar-avc1_500000=10007-mp4a_64000=20001.m3u8
+
+#EXTINF:-1 tvg-id="TVRI Kaltim" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Kalimantan Timur
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim-avc1_500000=10007-mp4a_64000=20001.m3u8
+
+#=============== LOKAL ===============#
+
+#EXTINF:-1 tvg-id="SampitTV.id" tvg-logo="https://i.imgur.com/8cFJa8G.png" group-title="LOKAL",Sampit TV
+https://sampit-tv.siar.us/live/sampit-tv.m3u8
